@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PreferenceFragment</string>
+    <string name="title_activity_fragment_preferences">FragmentPreferences</string>
+</resources>
